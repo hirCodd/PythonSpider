@@ -9,4 +9,5 @@ PythonSpider
 > 通过sougou的weixin文章，爬取微信文章
 ## 4.知乎爬虫，通过scrapy爬去知乎数据
 > 通过start_user进行爬取信息。
-
+## 5. weibo爬虫，对微博关键字的查询
+> 通过设置keyword对微博相关的内容进行搜索。
